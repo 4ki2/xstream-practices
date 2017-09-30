@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^1.7.3",
+    "typescript": "^2.5.3",
+    "xstream": "^11.0.0"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^1.6.7"
+  }
 }
